@@ -5,7 +5,8 @@
 <p>A simple and fun speed typing game built with React.</p>
 <a href='https://xyzuka-typing-game.netlify.app/'>👉 Live Demo</a>
 
-## Live Demo
+## Demo Screenshot
+<img width="969" alt="Screen Shot 2022-10-23 at 1 18 35 PM" src="https://user-images.githubusercontent.com/94155478/197416241-3b7adc1c-9b51-4957-925f-04b204e667a8.png">
 
 ## Acknowledgments
 
